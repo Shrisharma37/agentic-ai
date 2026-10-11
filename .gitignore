@@ -1,0 +1,19 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated reports
+reports/*.md
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
