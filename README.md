@@ -110,3 +110,5 @@ python -m unittest discover -s tests -v
 ## Project Goal
 
 The goal of JavaGuard AI is to make Java code review more accessible by combining traditional static analysis with AI-assisted explanations in a modular, extensible application.
+# agentic-ai
+working on creating agentic ai using langchain
